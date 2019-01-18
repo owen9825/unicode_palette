@@ -24,7 +24,11 @@ Please include some useful symbols here so that your typing can be more concise 
 | ≡   | IDENTICAL TO |
 | ≣   | STRICTLY EQUIVALENT TO |
 | ≔   | COLON EQUALS  |
-
+| ⏰  | ALARM CLOCK |
+| ⏱  | STOPWATCH  |
+| ⏲  | TIMER CLOCK  |
+| ⏳  | HOURGLASS WITH FLOWING SAND  |
+| ⏿  | OBSERVER EYE SYMBOL |
 
 ## Phrases
 These achieve the same goals of conciseness and expressivity, but are not recognised as individual characters.
