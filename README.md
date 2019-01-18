@@ -2,6 +2,7 @@
 Please include some useful symbols here so that your typing can be more concise and expressive.
 
 | Symbol  | Name  |
+|:--------|:-----|
 | ⚖   | SCALES  |
 | ❓  | BLACK QUESTION MARK ORNAMENT |
 | 🚢  | SHIP  |
@@ -27,4 +28,4 @@ Please include some useful symbols here so that your typing can be more concise 
 
 ## Phrases
 These achieve the same goals of conciseness and expressivity, but are not recognised as individual characters.
-¯\_(ツ)_/¯
+¯\\_(ツ)_/¯
