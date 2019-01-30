@@ -47,9 +47,6 @@ Please include some useful symbols here so that your typing can be more concise 
 | 🠅  | UPWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD   |  |
 | 🠇  | DOWNWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD |  |
 
-
->>>>>>> Adding pointers; including a Notes column
-
 ## Phrases
 These achieve the same goals of conciseness and expressivity, but are not recognised as individual characters.
 ¯\\_(ツ)_/¯
