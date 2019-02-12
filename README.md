@@ -38,6 +38,7 @@ Please include some useful symbols here so that your typing can be more concise 
 | ⏲  | TIMER CLOCK  |  |
 | ⏳  | HOURGLASS WITH FLOWING SAND  |  |
 | ⏿  | OBSERVER EYE SYMBOL |  |
+| 🔎 | RIGHT-POINTING MAGNIFYING GLASS |  |
 
 ## Pointers
 | Symbol  | Name  | Notes  |
