@@ -49,6 +49,8 @@ Please include some useful symbols here so that your typing can be more concise 
 | 🠇  | DOWNWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD |  |
 
 ## Emoji that should have been on the keyboard
+| Symbol  | Name  | Notes |
+|:--------|:-----|:-----|
 | 😱 | FACE SCREAMING IN FEAR | |
 | 🙈 | SEE-NO-EVIL MONKEY | |
 | 🙉 | HEAR-NO-EVIL MONKEY | |
