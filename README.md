@@ -48,6 +48,13 @@ Please include some useful symbols here so that your typing can be more concise 
 | 🠅  | UPWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD   |  |
 | 🠇  | DOWNWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD |  |
 
+## Emoji that should have been on the keyboard
+| 😱 | FACE SCREAMING IN FEAR | |
+| 🙈 | SEE-NO-EVIL MONKEY | |
+| 🙉 | HEAR-NO-EVIL MONKEY | |
+| 🙊 | SPEAK-NO-EVIL MONKEY | |
+
+
 ## Phrases
 These achieve the same goals of conciseness and expressivity, but are not recognised as individual characters.
 
