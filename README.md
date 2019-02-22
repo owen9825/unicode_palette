@@ -56,6 +56,8 @@ Please include some useful symbols here so that your typing can be more concise 
 | 🙈 | SEE-NO-EVIL MONKEY | |
 | 🙉 | HEAR-NO-EVIL MONKEY | |
 | 🙊 | SPEAK-NO-EVIL MONKEY | |
+| 👋 | WAVING HAND SIGN | |
+| 👍 | THUMBS UP SIGN | |
 
 
 ## Phrases
