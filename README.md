@@ -58,6 +58,8 @@ Please include some useful symbols here so that your typing can be more concise 
 | 🙊 | SPEAK-NO-EVIL MONKEY | |
 | 👋 | WAVING HAND SIGN | |
 | 👍 | THUMBS UP SIGN | |
+| 🙌 | RAISING HANDS | Hallelujah |
+| 👌 | OK HAND SIGN | Parfait |
 
 
 ## Phrases
