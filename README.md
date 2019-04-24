@@ -10,6 +10,7 @@ Please include some useful symbols here so that your typing can be more concise 
 | 🌀  | CYCLONE  |  |
 | 🍷  | WINE GLASS  |  |
 | 🎵  | MUSICAL NOTE |  |
+| 🎶 | MULTIPLE MUSICAL NOTES | |
 | 🎰  | SLOT MACHINE  |  |
 | 🕵 | SLEUTH OR SPY | |
 | ∀   | FOR ALL  |  |
