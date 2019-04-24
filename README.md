@@ -9,6 +9,7 @@ Please include some useful symbols here so that your typing can be more concise 
 | 🔮  | CRYSTAL BALL |  |
 | 🌀  | CYCLONE  |  |
 | 🍷  | WINE GLASS  |  |
+| 🎵  | MUSICAL NOTE |  |
 | 🎰  | SLOT MACHINE  |  |
 | 🕵 | SLEUTH OR SPY | |
 | ∀   | FOR ALL  |  |
