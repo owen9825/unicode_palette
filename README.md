@@ -50,6 +50,8 @@ Please include some useful symbols here so that your typing can be more concise 
 | 🠆 | RIGHTWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD |  |
 | 🠅  | UPWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD   |  |
 | 🠇  | DOWNWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD |  |
+| ‹ | SINGLE LEFT-POINTING ANGLE QUOTATION MARK | |
+| › | SINGLE RIGHT-POINTING ANGLE QUOTATION MARK | |
 
 ## Emoji that should have been on the keyboard
 | Symbol  | Name  | Notes |
