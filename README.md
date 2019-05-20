@@ -46,10 +46,10 @@ Please include some useful symbols here so that your typing can be more concise 
 ## Pointers
 | Symbol  | Name  | Notes  |
 |:-----|:----|:----|
-| 🠄 | LEFTWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD  |  |
-| 🠆 | RIGHTWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD |  |
-| 🠅  | UPWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD   |  |
-| 🠇  | DOWNWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD |  |
+| ← | LEFTWARDS ARROW | |
+| → | RIGHTWARDS ARROW | |
+| ↑ | UPWARDS ARROW | |
+| ↓ | DOWNWARDS ARROW | |
 | ‹ | SINGLE LEFT-POINTING ANGLE QUOTATION MARK | |
 | › | SINGLE RIGHT-POINTING ANGLE QUOTATION MARK | |
 
