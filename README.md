@@ -71,3 +71,6 @@ These achieve the same goals of conciseness and expressivity, but are not recogn
 
 * ¯\\_(ツ)_/¯
 * (V)(°,,,,°)(V)
+
+## Tools
+* [Underlining](http://thejh.net/misc/unicode-underline)
