@@ -74,3 +74,11 @@ These achieve the same goals of conciseness and expressivity, but are not recogn
 
 ## Tools
 * [Underlining](http://thejh.net/misc/unicode-underline)
+
+## Font Support
+* Ubuntu 19 with Pycharm 2019.2 causes Unicode glyphs to be invisible, with 0 width. To get around this, I followed the advice [here](https://youtrack.jetbrains.com/issue/IDEA-192107):
+	```shell script
+	sudo apt-get install -y fonts-symbola
+	fc-cache --force --verbose
+	echo "Restart the IDE now"
+	```
