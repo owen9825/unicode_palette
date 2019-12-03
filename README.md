@@ -43,6 +43,16 @@ Please include some useful symbols here so that your typing can be more concise 
 | ⏿  | OBSERVER EYE SYMBOL |  |
 | 🔎 | RIGHT-POINTING MAGNIFYING GLASS |  |
 
+## Electrical State
+| Symbol  | Name  | Notes |
+|:--------|:------|:------|
+| ⏻  | POWER SYMBOL |  |
+| ⏽  | POWER ON SYMBOL | Power On |
+| ⭘  | HEAVY CIRCLE  | Power off |
+| ⏾  | POWER SLEEP SYMBOL | Sleep |
+
+[Release notes](https://unicodepowersymbol.com/we-did-it-how-a-comment-on-hackernews-lead-to-4-%c2%bd-new-unicode-characters/); [compatible font](https://github.com/jloughry/Unicode)
+
 ## Pointers
 | Symbol  | Name  | Notes  |
 |:-----|:----|:----|
