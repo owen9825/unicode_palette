@@ -92,3 +92,7 @@ These achieve the same goals of conciseness and expressivity, but are not recogn
 	fc-cache --force --verbose
 	echo "Restart the IDE now"
 	```
+
+## See Also
+* [GIFs as Documentation](https://gifs-as-documentation.readthedocs.io/en/latest/)
+* [Handwriting recognition](https://shapecatcher.com/)
